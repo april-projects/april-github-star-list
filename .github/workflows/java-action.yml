@@ -18,4 +18,11 @@ jobs:
       - name: Build with Maven
         run: mvn clean install
       - name: Run Java App
-        run: java -jar target/my-app-jar-with-dependencies.jar
+        run: java -jar target/github-star-list-1.0.0-jar-with-dependencies.jar
+      - name: Commit files
+        run: |
+          git config --local user.email "mobaijun8@163.com"
+          git config --local user.name "mobaijun"
+          git pull
+          git add Repo.md
+          git commit -m ":sparkles: Update Today GitHub Star List Backups"
