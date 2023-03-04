@@ -27,6 +27,8 @@ jobs:
           git pull
           git add .
           git commit -m ":sparkles: Add generated repo.md file"
+          git remote set-url origin https://github.com/mobaijun/github-star-list.git
+          git push origin main
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
