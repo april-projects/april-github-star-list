@@ -1,14 +1,17 @@
 package com.mobaijun;
 
 import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.lang.Console;
 import cn.hutool.core.text.StrBuilder;
 import com.mobaijun.github.Github;
+import com.mobaijun.github.Repository;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.List;
 
 /**
  * 主程序
@@ -40,16 +43,17 @@ public class ApplicationMain {
         StrBuilder sb = new StrBuilder();
         // 标题
         sb.append("# ").append(username).append(" Starred Repositories\n\n");
-        Github.getGithubStarList(username)
-                .forEach(item -> {
-                    String name = item.getName();
-                    String htmlUrl = item.getHtmlUrl();
-                    String description = item.getDescription();
-                    // 拼接描述信息
-                    sb.append("- [").append(name).append("](").append(htmlUrl).append(")\t[");
-                    sb.append(description != null ? description : "No description available.");
-                    sb.append("]\n");
-                });
+        List<Repository> repositoryList = Github.getGithubStarList(username);
+        Console.log(repositoryList);
+        repositoryList.forEach(item -> {
+            String name = item.getName();
+            String htmlUrl = item.getHtmlUrl();
+            String description = item.getDescription();
+            // 拼接描述信息
+            sb.append("- [").append(name).append("](").append(htmlUrl).append(")\t[");
+            sb.append(description != null ? description : "No description available.");
+            sb.append("]\n");
+        });
         // 打印
         FileUtil.writeString(sb.toString(), PATH.toAbsolutePath().toString(), StandardCharsets.UTF_8);
     }
