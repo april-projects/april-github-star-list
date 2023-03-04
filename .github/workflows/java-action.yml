@@ -33,6 +33,6 @@ jobs:
           git config --global user.email "mobaijun8@163.com"
           git add .
           git commit -m ":sparkles: Add generated repo.md file"
-          git push
+          git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
