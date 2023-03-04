@@ -44,7 +44,9 @@ public class ApplicationMain {
         // 标题
         sb.append("# ").append(username).append(" Starred Repositories\n\n");
         List<Repository> repositoryList = Github.getGithubStarList(username);
+        // 打印日志
         Console.log(repositoryList);
+        // 拼接列表
         repositoryList.forEach(item -> {
             String name = item.getName();
             String htmlUrl = item.getHtmlUrl();
