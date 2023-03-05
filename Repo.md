@@ -1,5 +1,6 @@
 # mobaijun Starred Repositories
 
+- [Imagine](https://github.com/meowtec/Imagine)	[🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.]
 - [free](https://github.com/freefq/free)	[翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子]
 - [easyexcel](https://github.com/alibaba/easyexcel)	[快速、简洁、解决大文件内存溢出的java处理Excel工具]
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)	[收集整理 GitHub 上高质量、有趣的开源项目。]
@@ -29,4 +30,3 @@
 - [varbook](https://github.com/uiuing/varbook)	[适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则]
 - [picx](https://github.com/XPoet/picx)	[基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！]
 - [iptv](https://github.com/iptv-org/iptv)	[Collection of publicly available IPTV channels from all over the world]
-- [javacore](https://github.com/dunwu/javacore)	[:coffee: JavaCore 是对 Java 核心技术的经验总结。]
