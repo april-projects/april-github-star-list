@@ -22,7 +22,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)	[Interactive roadmaps, guides and other educational content to help developers grow in their careers.]
 - [edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record)	[一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。]
 - [watchtower](https://github.com/containrrr/watchtower)	[A process for automating Docker container base image updates. ]
-- [sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy)	[Java真正智慧的ORM框架，支持mysql、oracle、postgresql、sqlserver、db2、dm、h2、polardb、mongodb、elasticsearch、clickhouse、StarRocks、kudu、tidb、guassdb、kingbase、oceanbase、greenplum]
+- [sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy)	[Java真正智慧的ORM框架，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供分组汇总、同比环比、行列转换、树形排序汇总等痛点问题的解决方案!]
 - [clickhouse4j](https://github.com/blynkkk/clickhouse4j)	[Lighter and faster alternative for the official ClickHouse JDBC driver]
 - [admin3](https://github.com/cjbi/admin3)	[一个轻巧的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景]
 - [microservices-platform](https://github.com/zlt2000/microservices-platform)	[基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。]
