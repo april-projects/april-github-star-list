@@ -2,6 +2,8 @@ package com.mobaijun.github;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;
+import cn.hutool.http.Method;
+import cn.hutool.json.JSONArray;
 import cn.hutool.json.JSONUtil;
 
 import java.util.List;
@@ -41,9 +43,10 @@ public class Github {
     }
 
     public static List<Repository> getGithubStarList(String username) {
-        String apiUrl = "https://api.github.com/users/" + username + "/starred";
+        String apiUrl = "https://api.github.com/users/" + username + "/starred?per_page=1000";
+        JSONArray objects = JSONUtil.parseArray(getHttpResponse(apiUrl).body());
         // Parse JSON response
-        return JSONUtil.toList(JSONUtil.parseArray(getHttpResponse(apiUrl).body()), Repository.class);
+        return JSONUtil.toList(objects, Repository.class);
     }
 
     /**
@@ -55,6 +58,7 @@ public class Github {
     private static HttpResponse getHttpResponse(String apiUrl) {
         // Send HTTP GET request and get response
         return HttpRequest.get(apiUrl)
+                .setMethod(Method.GET)
                 .header("User-Agent", "Java client")
                 .header("Accept", "application/vnd.github.v3+json")
                 .execute();
