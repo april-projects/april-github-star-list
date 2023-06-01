@@ -1,5 +1,11 @@
 # mobaijun Starred Repositories
 
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic)	[高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ]
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)	[一个基于 electron 的音乐软件]
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)	[网易云音乐 Node.js API service]
+- [note-book](https://github.com/zq99299/note-book)	[新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。]
+- [1Panel](https://github.com/1Panel-dev/1Panel)	[🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。]
+- [Vmq](https://github.com/szvone/Vmq)	[V免签 完全开源免费的个人免签约解决方案]
 - [md](https://github.com/doocs/md)	[✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性]
 - [chatgpt-web](https://github.com/869413421/chatgpt-web)	[基于ChatGPT3.5 API实现的私有化web程序]
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)	[用 Express 和  Vue3 搭建的 ChatGPT 演示网页]
@@ -10,7 +16,7 @@
 - [API](https://github.com/insoxin/API)	[API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.]
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi)	[一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！【只fork不star是很没品的】]
 - [winget-cli](https://github.com/microsoft/winget-cli)	[Windows Package Manager CLI (aka winget)]
-- [weChatRobot](https://github.com/MartinDai/weChatRobot)	[一个基于微信公众号和图灵机器人开发的自动回复机器人项目。]
+- [weChatRobot](https://github.com/MartinDai/weChatRobot)	[一个基于微信公众号的智能聊天机器人项目，支持图灵机器人(V2)和ChatGPT对话模式回复内容]
 - [Fast-GitHub](https://github.com/fhefh2015/Fast-GitHub)	[国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！]
 - [Motrix](https://github.com/agalwood/Motrix)	[A full-featured download manager.]
 - [lenav](https://github.com/lework/lenav)	[一个简便的公司内部网址导航站,省去到处找服务地址烦恼......]
@@ -49,7 +55,6 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)	[Interactive roadmaps, guides and other educational content to help developers grow in their careers.]
 - [edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record)	[一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。]
 - [watchtower](https://github.com/containrrr/watchtower)	[A process for automating Docker container base image updates. ]
-- [sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy)	[Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供分组汇总、同比环比、行列转换、树形排序汇总、多数据库适配(oracle\mysql\sqlserver\postgresql\sqlite\db2\clickhouse\starrocks\greenplum\dm\kingbase\elasticsearch\mongodb\tidb等)、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!]
 - [clickhouse4j](https://github.com/blynkkk/clickhouse4j)	[Lighter and faster alternative for the official ClickHouse JDBC driver]
 - [admin3](https://github.com/cjbi/admin3)	[一个轻巧的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景]
 - [microservices-platform](https://github.com/zlt2000/microservices-platform)	[基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。]
