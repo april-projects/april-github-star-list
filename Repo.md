@@ -1,5 +1,6 @@
 # mobaijun Starred Repositories
 
+- [github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl)	[使用 GitHub Actions 下载 YouTube 视频]
 - [BitQR-Code](https://github.com/CasterWx/BitQR-Code)	[Through image generate QR-Code . 动态二维码绘制。]
 - [lilishop](https://github.com/lilishop/lilishop)	[商城 JAVA电商商城 多语言商城  uniapp商城  微服务商城 ]
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic)	[高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ]
@@ -13,7 +14,7 @@
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)	[用 Express 和  Vue3 搭建的 ChatGPT 演示网页]
 - [PandoraAI](https://github.com/waylaidwanderer/PandoraAI)	[PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.]
 - [AgentGPT](https://github.com/reworkd/AgentGPT)	[🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.]
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)	[An experimental open-source attempt to make GPT-4 fully autonomous.]
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)	[An experimental open-source attempt to make GPT-4 fully autonomous.]
 - [free-forever](https://github.com/haonanor/free-forever)	[【每日更新】收集永久免费的好产品，好服务，好应用，好API，好解决方案，翻墙]
 - [API](https://github.com/insoxin/API)	[API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.]
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi)	[一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！【只fork不star是很没品的】]
@@ -25,7 +26,7 @@
 - [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)	[🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台]
 - [nas-tools](https://github.com/NAStool/nas-tools)	[NAS媒体库管理工具]
 - [xxim-server](https://github.com/cherish-chat/xxim-server)	[惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！]
-- [QChatGPT](https://github.com/RockChinQ/QChatGPT)	[😎高稳定性、🐒低耦合、🧩支持插件的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT 实时联网搜索 | 支持 Claude、Google Bard、gpt4free]
+- [QChatGPT](https://github.com/RockChinQ/QChatGPT)	[😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台]
 - [new-pac](https://github.com/Alvin9999/new-pac)	[翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网]
 - [hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack)	[A hexo theme based on webstack. | 一个基于webstack的hexo主题。]
 - [ChatGPT](https://github.com/lencx/ChatGPT)	[🔮 ChatGPT Desktop Application (Mac, Windows and Linux)]
