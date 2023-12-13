@@ -1,6 +1,5 @@
 # mobaijun Starred Repositories
 
-- [github-star-list](https://github.com/mobaijun/github-star-list)	[这是一个 Java 程序，可以从 Github 获取指定用户的 Star 仓库列表，并将其输出为 Markdown 格式的文件，使用 GitHub Action 自动运行，作为备份。]
 - [warbler-homepage](https://github.com/alanhzw/warbler-homepage)	[流莺书签]
 - [pnd](https://github.com/BitInit/pnd)	[✨✨个人网盘：部署在家庭等个人生活的私人存储空间，支持基本文件管理/在线影视观看/百度网盘、B站等资源加速下载...]
 - [filecloud](https://github.com/yddeng/filecloud)	[仿百度网盘，个人云盘。 file cloud]
