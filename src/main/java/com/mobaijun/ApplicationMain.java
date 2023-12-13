@@ -102,7 +102,7 @@ public class ApplicationMain {
 
         // 写入 HTML 文件
         try {
-            Files.writeString(Path.of("docs/repositories.html"), htmlContent);
+            Files.writeString(Path.of("docs/index.html"), htmlContent);
             System.out.println("HTML file created successfully.");
         } catch (IOException e) {
             logger.log(Level.SEVERE, "Error writing HTML file", e);
