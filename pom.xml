@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mobaijun</groupId>
-    <artifactId>github-star-list</artifactId>
+    <artifactId>april-github-star-list</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>github-star-list</name>
+    <name>april-github-star-list</name>
     <url>https://www.mobaijun.com</url>
 
     <properties>
