@@ -2,6 +2,7 @@ package com.mobaijun;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.text.StrBuilder;
+import cn.hutool.json.JSONUtil;
 import com.mobaijun.github.Github;
 import com.mobaijun.github.Repository;
 
@@ -52,6 +53,10 @@ public class ApplicationMain {
         // 标题
         sb.append("# ").append(username).append(" Starred Repositories\n\n");
         List<Repository> repositoryList = Github.getGithubStarList(username);
+
+        // 写入 json api
+        FileUtil.writeString(JSONUtil.toJsonStr(repositoryList),FileUtil.newFile("api.json"),StandardCharsets.UTF_8);
+
         // 写入 html
         writeRepositoriesToHtml(repositoryList);
         // 拼接列表
