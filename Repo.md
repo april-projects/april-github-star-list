@@ -1,5 +1,7 @@
 # mobaijun Starred Repositories
 
+- [PopupRSS](https://github.com/hoywu/PopupRSS)	[FASTEST RSS monitor for Gengo]
+- [Sa-plus](https://github.com/click33/Sa-plus)	[一个基于 SpringBoot 的快速开发框架，内置代码生成器]
 - [Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve)	[🚀免费Shadowrocket账号，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai ChatGPT账号,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID]
 - [Free-servers](https://github.com/Pawdroid/Free-servers)	[🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。]
 - [1024RegisterTool](https://github.com/MisterChangRay/1024RegisterTool)	[1024注册码工具,暗码破解工具]
@@ -21,7 +23,6 @@
 - [VideoWorld_Java](https://github.com/123lxw123/VideoWorld_Java)	[影视天地（服务端），涵盖电影、电视剧、综艺节目、动漫、游戏等各式各样的资源，你想要的这里都有！]
 - [MovieRecommender](https://github.com/bystc/MovieRecommender)	[基于Mahout实现协同过滤推荐算法的电影推荐系统]
 - [SpringBootMovie](https://github.com/lkmc2/SpringBootMovie)	[基于Spring Boot的电影网站]
-- [Movie](https://github.com/banbanzzz/Movie)	[仿猫眼电影购票系统]
 - [imewlconverter](https://github.com/studyzy/imewlconverter)	[”深蓝词库转换“ 一款开源免费的输入法词库转换程序]
 - [mini-spring](https://github.com/DerekYRC/mini-spring)	[mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。 ]
 - [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo)	[基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo，支持多公众号]
@@ -51,7 +52,7 @@
 - [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)	[🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台]
 - [nas-tools](https://github.com/NAStool/nas-tools)	[NAS媒体库管理工具]
 - [xxim-server](https://github.com/cherish-chat/xxim-server)	[惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！]
-- [QChatGPT](https://github.com/RockChinQ/QChatGPT)	[😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、Gemini Pro、gpt4free、One API 的 QQ 机器人平台]
+- [QChatGPT](https://github.com/RockChinQ/QChatGPT)	[😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 机器人🤖 | 支持 ChatGPT、Claude、Google Bard、Gemini Pro、gpt4free、One API 的 QQ（QQ频道） 机器人平台]
 - [new-pac](https://github.com/Alvin9999/new-pac)	[翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网]
 - [hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack)	[A hexo theme based on webstack. | 一个基于webstack的hexo主题。]
 - [ChatGPT](https://github.com/lencx/ChatGPT)	[🔮 ChatGPT Desktop Application (Mac, Windows and Linux)]
@@ -83,7 +84,7 @@
 - [edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record)	[一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。]
 - [watchtower](https://github.com/containrrr/watchtower)	[A process for automating Docker container base image updates. ]
 - [clickhouse4j](https://github.com/Blynk-Technologies/clickhouse4j)	[Lighter and faster alternative for the official ClickHouse JDBC driver]
-- [admin3](https://github.com/cjbi/admin3)	[一个轻巧的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景]
+- [admin3](https://github.com/cjbi/admin3)	[一个轻巧的后台管理框架，项目后端基于Java21、SpringBoot3.2，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景]
 - [microservices-platform](https://github.com/zlt2000/microservices-platform)	[基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。]
 - [excel-batch-picture-support](https://github.com/mwk719/excel-batch-picture-support)	[解决导出excel含图片写的图片越多,占用内存越大,导致频繁GC,甚至OOM]
 - [varbook](https://github.com/uiuing/varbook)	[适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则]
@@ -99,4 +100,3 @@
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community)	[JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。]
 - [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)	[IntelliJ IDEA 简体中文专题教程]
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)	[🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.]
-- [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)	[:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）]
