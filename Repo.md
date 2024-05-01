@@ -1,5 +1,6 @@
 # mobaijun Starred Repositories
 
+- [WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide)	[😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能]
 - [Hotel](https://github.com/saysky/Hotel)	[SpringBoot酒店管理系统]
 - [music-website](https://github.com/Yin-Hongwei/music-website)	[🎧 Vue + SpringBoot + MyBatis 音乐网站]
 - [bikeManagePublic](https://github.com/giteecode/bikeManagePublic)	[基于Java+Springboot+Vue的共享单车租赁管理系统 本项目前后端分离，分为管理员、操作员、用户三种角色 用户： - 注册、登录、单车搜索、单车租赁、停车点查询、新闻浏览、客服咨询、留言反馈、充值、单车租赁管理、单车归还管理、个人中心、个人收藏管理、密码修改 操作员： - 注册、登录、停车点管理、单车管理、租赁单车管理、归还单车管理、维修管理、密码修改 管理员： - 操作员所有功能、用户管理、操作员、充值管理、车辆类型管理、系统简介管理、站内新闻管理、留言板管理、轮播图管理、客服管理 后端技术栈： - Springboot - MybatisPlus - Mysql 前端技术栈： - Vue - Vue-router - axios - element-ui]
@@ -84,10 +85,10 @@
 - [slim](https://github.com/slimtoolkit/slim)	[Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)]
 - [Yearning](https://github.com/cookieY/Yearning)	[🐳 A most popular sql audit platform for mysql ]
 - [GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck)	[No description available.]
-- [translate-readme](https://github.com/dephraiim/translate-readme)	[Translate Github Readme to any other Language]
+- [translate-readme](https://github.com/ephraimduncan/translate-readme)	[Translate Github Readme to any other Language]
 - [ck_flow](https://github.com/caokai111222/ck_flow)	[一个简易的自定义流程+自定义表单]
 - [tcc-transaction](https://github.com/changmingxie/tcc-transaction)	[tcc-transaction是TCC型事务java实现]
-- [MaxKey](https://github.com/dromara/MaxKey)	[🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。]
+- [MaxKey](https://github.com/dromara/MaxKey)	[🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。]
 - [learning-note](https://github.com/rbmonster/learning-note)	[Java开发及面试（个人面试、工作总结、资料收集站）]
 - [pragmatic-java-engineer](https://github.com/superhj1987/pragmatic-java-engineer)	[Java工程师修炼之道 - 梳理Java知识体系，沓实架构基础]
 - [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)	[一键自动化 下载、安装、激活 Office 的利器。]
@@ -99,4 +100,3 @@
 - [clickhouse4j](https://github.com/Blynk-Technologies/clickhouse4j)	[Lighter and faster alternative for the official ClickHouse JDBC driver]
 - [admin3](https://github.com/cjbi/admin3)	[一个轻巧的后台管理框架，项目后端基于Java21、SpringBoot3.2，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景]
 - [microservices-platform](https://github.com/zlt2000/microservices-platform)	[基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。]
-- [excel-batch-picture-support](https://github.com/mwk719/excel-batch-picture-support)	[解决导出excel含图片写的图片越多,占用内存越大,导致频繁GC,甚至OOM]
