@@ -1,5 +1,10 @@
 # mobaijun Starred Repositories
 
+- [form-generator](https://github.com/JakHuang/form-generator)	[:sparkles:Element UI表单设计及代码生成器]
+- [MoviePilot](https://github.com/jxxghp/MoviePilot)	[NAS媒体库自动化管理工具]
+- [Episode-ReName](https://github.com/Nriver/Episode-ReName)	[电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行]
+- [avbook](https://github.com/guyueyingmu/avbook)	[AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database]
+- [team-nav](https://github.com/tuituidan/team-nav)	[前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。]
 - [alist](https://github.com/alist-org/alist)	[🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。]
 - [lucky](https://github.com/gdy666/lucky)	[软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser]
 - [btrfs](https://github.com/maharmstone/btrfs)	[WinBtrfs - an open-source btrfs driver for Windows]
@@ -18,7 +23,7 @@
 - [linktre.cc](https://github.com/PennyJoly/linktre.cc)	[linktre.cc节点导航站的开源版本。一个基于WebStack-Guns的二次开发加工的开源的网址导航网站项目，具备完整的前后台，可以拿来制作自己的网址导航。]
 - [geshanzsq-nav](https://github.com/geshanzsq/geshanzsq-nav)	[格姗导航，基于 Spring Boot、MyBatis Plus、Vue3、Element Plus 前后端分离的导航网站！]
 - [polyglot-maven](https://github.com/takari/polyglot-maven)	[Support alternative markup for Apache Maven POM files]
-- [JimuReport](https://github.com/jeecgboot/JimuReport)	[🔥「数据可视化报表，帆软等商业 BI 工具的开源替代品」类似excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。]
+- [JimuReport](https://github.com/jeecgboot/JimuReport)	[「开源可视化报表，商业BI替代方案」积木报表是一款类似excel操作风格，在线拖拽完成设计的报表工具。低代码产品的臂膀！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。]
 - [HowToCook](https://github.com/Anduin2017/HowToCook)	[程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).]
 - [fscan](https://github.com/shadow1ng/fscan)	[一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。]
 - [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)	[B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。]
@@ -95,8 +100,3 @@
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi)	[一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！【只fork不star是很没品的】]
 - [winget-cli](https://github.com/microsoft/winget-cli)	[WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).]
 - [weChatRobot](https://github.com/MartinDai/weChatRobot)	[一个基于微信公众号的智能聊天机器人项目，支持根据关键字或者调用OpenAI、通义千问等大语言模型服务回复内容]
-- [Fast-GitHub](https://github.com/fhefh2015/Fast-GitHub)	[国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！]
-- [Motrix](https://github.com/agalwood/Motrix)	[A full-featured download manager.]
-- [lenav](https://github.com/lework/lenav)	[一个简便的公司内部网址导航站,省去到处找服务地址烦恼......]
-- [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)	[🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台]
-- [nas-tools](https://github.com/NAStool/nas-tools)	[NAS媒体库管理工具]
