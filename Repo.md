@@ -56,7 +56,7 @@
 - [spider-boos](https://github.com/uu-xixi/spider-boos)	[Boss直聘Java爬虫]
 - [PopupRSS](https://github.com/hoywu/PopupRSS)	[FASTEST RSS monitor for Gengo]
 - [Sa-plus](https://github.com/click33/Sa-plus)	[一个基于 SpringBoot 的快速开发框架，内置代码生成器]
-- [Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve)	[2024年7月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai ChatGPT账号,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID,clashx Pro客户端下载]
+- [Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve)	[2024年8月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai ChatGPT账号,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID,clashx Pro客户端下载]
 - [Free-servers](https://github.com/Pawdroid/Free-servers)	[🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。]
 - [1024RegisterTool](https://github.com/MisterChangRay/1024RegisterTool)	[1024注册码工具,暗码破解工具]
 - [gocron](https://github.com/ouqiang/gocron)	[定时任务管理系统]
