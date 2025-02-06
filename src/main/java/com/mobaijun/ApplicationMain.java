@@ -125,7 +125,7 @@ public class ApplicationMain {
 
         // 显示所有仓库，按语言分组
         groupedByLanguage.forEach((language, repositories) -> {
-            htmlContent.append("<div class=\"language-group\" id=\"group-" + language + "\">")
+            htmlContent.append("<div class=\"language-group\" id=\"group-").append(language).append("\">")
                     .append("<h2>").append(language).append("</h2>")
                     .append("<ul class=\"repo-list\">");
 
