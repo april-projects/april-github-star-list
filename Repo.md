@@ -1,5 +1,9 @@
 # mobaijun Starred Repositories
 
+- [online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker)	[线上UI自动化巡检系统]
+- [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot)	[仿掘金之【南生论坛】基于SpringBoot+Vue(2/3)框架实现前后端分离（大厂微服务架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善，性能高效。官方地址：https://bbs.nanshengbbs.top]
+- [redis-windows](https://github.com/redis-windows/redis-windows)	[Redis 6.0.20 6.2.14 7.0.15  7.2.4  7.4.0 for Windows]
+- [winsw](https://github.com/winsw/winsw)	[A wrapper executable that can run any executable as a Windows service, in a permissive license.]
 - [screenpipe](https://github.com/mediar-ai/screenpipe)	[library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and control]
 - [r-nacos](https://github.com/nacos-group/r-nacos)	[Nacos server re-implemented in Rust.]
 - [spring-ai](https://github.com/spring-projects/spring-ai)	[An Application Framework for AI Engineering]
@@ -91,12 +95,8 @@
 - [spider-boos](https://github.com/uu-xixi/spider-boos)	[Boss直聘Java爬虫]
 - [PopupRSS](https://github.com/hoywu/PopupRSS)	[FASTEST RSS monitor for Gengo]
 - [Sa-plus](https://github.com/click33/Sa-plus)	[一个基于 SpringBoot 的快速开发框架，内置代码生成器]
-- [Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve)	[2025年1月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID,clashx Pro客户端下载,Free subscription address,使用教程]
+- [Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve)	[2025年2月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID,clashx Pro客户端下载,Free subscription address,使用教程]
 - [Free-servers](https://github.com/Pawdroid/Free-servers)	[🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.]
 - [1024RegisterTool](https://github.com/MisterChangRay/1024RegisterTool)	[1024注册码工具,暗码破解工具]
 - [gocron](https://github.com/ouqiang/gocron)	[定时任务管理系统]
 - [warbler-homepage](https://github.com/alanhzw/warbler-homepage)	[流莺书签]
-- [pnd](https://github.com/BitInit/pnd)	[✨✨个人网盘：部署在家庭等个人生活的私人存储空间，支持基本文件管理/在线影视观看/百度网盘、B站等资源加速下载...]
-- [filecloud](https://github.com/yddeng/filecloud)	[仿百度网盘，个人云盘。 file cloud]
-- [zpan](https://github.com/saltbo/zpan)	[A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。]
-- [netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download)	[各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘. 专享版支持移动联通天翼云等大文件解析. 体验地址: https://lz.qaiu.top]
