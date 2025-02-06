@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/last-commit/april-projects/april-github-star-list.svg" alt="最新提交"/>
 </div>
 
-这是一个 Java 程序，可以从 Github 获取指定用户的 Star 仓库列表，并将其输出为 Markdown 格式的文件，使用 GitHub Action 自动运行，作为备份。
+这是一个 Java 程序，可以从 Github 获取指定用户的 Star 仓库列表，并将其输出为 Markdown 格式的文件，使用 GitHub Action 自动运行，作为备份，示例网页：[传送门](https://april-projects.github.io/april-github-star-list/)。
 
 ## 使用方法
 
