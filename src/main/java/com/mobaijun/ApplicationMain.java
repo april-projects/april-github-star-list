@@ -104,6 +104,8 @@ public class ApplicationMain {
                 "    .repo-description { display: block; font-size: 1rem; color: #6c757d; margin-top: 8px; font-style: italic; }" +
                 "    .repo-description::before { content: '\"'; font-size: 1.5rem; }" +
                 "    .repo-description::after { content: '\"'; font-size: 1.5rem; }" +
+                "    .search-bar { margin: 20px auto; text-align: center; }" +
+                "    .search-bar input { width: 100%; max-width: 400px; padding: 10px; font-size: 1rem; border-radius: 5px; border: 1px solid #ccc; }" +
                 "    .footer { text-align: center; font-size: 1rem; color: #6c757d; margin-top: 40px; padding: 20px 0; }" +
                 "    .footer a { color: #007bff; text-decoration: none; font-weight: 500; }" +
                 "    .footer a:hover { color: #0056b3; }" +
@@ -112,13 +114,21 @@ public class ApplicationMain {
                 "</head>" +
                 "<body>");
 
+
         htmlContent.append("<div class=\"container\">" +
                 "<h1>mobaijun Starred Repositories</h1>");
 
+        // 搜索框
+        htmlContent.append("<div class=\"search-bar\">" +
+                "<input type=\"text\" id=\"searchInput\" placeholder=\"Search repositories...\" onkeyup=\"filterRepositories()\">" +
+                "</div>");
+
+        // 显示所有仓库，按语言分组
         groupedByLanguage.forEach((language, repositories) -> {
-            htmlContent.append("<div class=\"language-group\">")
+            htmlContent.append("<div class=\"language-group\" id=\"group-" + language + "\">")
                     .append("<h2>").append(language).append("</h2>")
                     .append("<ul class=\"repo-list\">");
+
             repositories.forEach(repository -> {
                 htmlContent.append("<li>")
                         .append("<a href=\"").append(repository.getHtmlUrl()).append("\" target=\"_blank\">")
@@ -126,14 +136,44 @@ public class ApplicationMain {
                         .append("<span class=\"repo-description\">").append(repository.getDescription()).append("</span>")
                         .append("</li>");
             });
+
             htmlContent.append("</ul></div>");
         });
 
+        // 页脚
         htmlContent.append("<div class=\"footer\">" +
                 "<p>Created with <span style=\"color: #e25555;\">♥</span> by <a href=\"https://github.com/mobaijun\" target=\"_blank\">mobaijun</a></p>" +
                 "</div>");
 
-        htmlContent.append("</div></body></html>");
+        htmlContent.append("</div>");
+
+        // 添加搜索功能的 JavaScript
+        htmlContent.append("<script>" +
+                "    function filterRepositories() {" +
+                "        const input = document.getElementById('searchInput').value.toLowerCase();" +
+                "        const allRepos = document.querySelectorAll('.repo-list li');" +
+                "        const allLanguageGroups = document.querySelectorAll('.language-group');" +
+                "        allLanguageGroups.forEach(group => {" +
+                "            const repos = group.querySelectorAll('.repo-list li');" +
+                "            let hasVisibleRepos = false;" +
+                "            repos.forEach(repo => {" +
+                "                const name = repo.querySelector('a').textContent.toLowerCase();" +
+                "                const description = repo.querySelector('.repo-description').textContent.toLowerCase();" +
+                "                if (name.includes(input) || description.includes(input)) {" +
+                "                    repo.style.display = 'block';" +
+                "                    hasVisibleRepos = true;" +
+                "                } else {" +
+                "                    repo.style.display = 'none';" +
+                "                }" +
+                "            });" +
+                "            if (hasVisibleRepos) {" +
+                "                group.style.display = 'block';" +
+                "            } else {" +
+                "                group.style.display = 'none';" +
+                "            }" +
+                "        });" +
+                "    }" +
+                "</script>");
 
         // 写入 HTML 文件
         try {
