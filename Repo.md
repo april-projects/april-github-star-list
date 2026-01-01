@@ -1,5 +1,7 @@
 # mobaijun Starred Repositories
 
+- [Yuxi-Know](https://github.com/xerrors/Yuxi-Know)	[结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.]
+- [Sa-Token](https://github.com/dromara/Sa-Token)	[一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0]
 - [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)	[Multilingual Voice Understanding Model]
 - [xianyu](https://github.com/QZHCHH/xianyu)	[咸鱼自动化]
 - [v2ray-core](https://github.com/v2ray/v2ray-core)	[A platform for building proxies to bypass network restrictions.]
@@ -19,10 +21,10 @@
 - [jsoup](https://github.com/jhy/jsoup)	[jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.]
 - [Wechatsync](https://github.com/wechatsync/Wechatsync)	[一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力]
 - [excalidraw](https://github.com/excalidraw/excalidraw)	[Virtual whiteboard for sketching hand-drawn like diagrams]
-- [system_planner](https://github.com/xiaomabenten/system_planner)	[💯2025年 系统规划与管理师 （软考高级）备考资源库。PC版免费刷题软件：https://ruankaodaren.com]
+- [system_planner](https://github.com/xiaomabenten/system_planner)	[💯2026年 系统规划与管理师 （软考高级）备考资源库。PC版免费刷题软件：https://ruankaodaren.com]
 - [ruankao_itpm](https://github.com/xiaomabenten/ruankao_itpm)	[💯2025年信息系统项目管理师（软考高级）备考资源库。]
 - [system-analysts](https://github.com/xiaomabenten/system-analysts)	[💯2025年系统分析师（软考高级）备考资源库。]
-- [system_architect](https://github.com/xiaomabenten/system_architect)	[💯2025年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。]
+- [system_architect](https://github.com/xiaomabenten/system_architect)	[💯2026年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。]
 - [system_architect](https://github.com/xxlllq/system_architect)	[:100: 2025年系统架构设计师（软考高级）备考资料。]
 - [understand-prompt](https://github.com/phodal/understand-prompt)	[【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。]
 - [AmazeCard](https://github.com/wudg/AmazeCard)	[根据文字生成卡片图片]
@@ -98,5 +100,3 @@
 - [bbs](https://github.com/diyhi/bbs)	[巡云轻论坛系统包含论坛、问答模块。系统采用JAVA+MYSQL架构（官网有适配 达梦 数据库的版本），自适应手机端和电脑端，界面简洁，性能高效。演示站：http://bbs3.diyhi.com]
 - [bbs](https://github.com/chenglinjava68/bbs)	[基于spring boot的java论坛系统]
 - [whitewall](https://github.com/Dagon0577/whitewall)	[Java 高校表白墙社交系统（类似知乎、牛客网）]
-- [new-api](https://github.com/QuantumNous/new-api)	[AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.]
-- [one-hub](https://github.com/MartialBE/one-hub)	[OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。]
